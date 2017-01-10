@@ -1,3 +1,4 @@
+DK notes:
 1)For Issue #1: SNP name are list of SNPs,
 ( e.g. rs35522752; rs367784979;rs369602394;rs372095550;rs372300786 etc.)
 
